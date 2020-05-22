@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "cordova-common": "^4.0.1-nightly.2020.5.1.82cded7d",
-    "electron": "^8.2.5",
+    "electron": "^9.0.0",
     "electron-builder": "^22.6.1",
     "electron-publish": "^22.6.1",
     "execa": "^4.0.0",
